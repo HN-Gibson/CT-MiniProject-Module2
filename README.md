@@ -12,6 +12,7 @@
     - Please make sure to reference the list of options
         - Input is **NOT** case sensitive
         - But leaving out a character will result in a new menu prompt being issued
+    - This menu will print each time you need to call a menu command
 
 3. Your options include:
     

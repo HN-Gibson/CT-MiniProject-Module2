@@ -38,5 +38,6 @@
     
     - Quit
         - Allows you to exit the program
+        - When you wuit the program, it will print your list one final time for you to copy and paste or use as you wish
 
 **Thank you for reading about my To-Do List Application!**
